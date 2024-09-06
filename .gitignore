@@ -1,0 +1,10 @@
+
+# Intellij
+*.iml
+.idea/
+
+# OSX
+.DS_Store
+
+.sql
+.sqlite
