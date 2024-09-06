@@ -1,7 +1,7 @@
 # Data-Engineer-Practice-test
 Please open      - [Notebook containing answers of the assements](deliverable_1.ipynb) to go throw all answers of the assessement<br>
 Q1 : Image files of the visualizations
-Find images below :
+Find images below :<br>
     - [monthly_revenue](monthly_revenue.png) <br>
     - [popular_products](popular_products.png)<br>
     - [top_customers](top_customers.png)<br>
