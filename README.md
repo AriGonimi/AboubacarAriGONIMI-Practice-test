@@ -7,6 +7,6 @@ Find images below :<br>
     - [top_customers](top_customers.png)<br>
 
 Q3: 
-For Q3 queries F[Q3_queries ](Q3_queries.sql) <br>
+For Q3 queries [Q3_queries ](Q3_queries.sql) <br>
 In  - [export_csv](export_csv/top_5_genres.csv) you will the extract of the queries for Questions 3
  
