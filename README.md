@@ -1,5 +1,5 @@
 # Data-Engineer-Practice-test
-Please open      - [deliverable_1.ipynb Notebook](deliverable_1.ipynb) to go throw all answers of the assessement<br>
+Please open  - [deliverable_1.ipynb Notebook](deliverable_1.ipynb) to go through all answers of the assessement<br>
 Q1 : Image files of the visualizations
 Find images below :<br>
     - [monthly_revenue](monthly_revenue.png) <br>
